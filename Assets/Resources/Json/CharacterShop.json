@@ -1,0 +1,36 @@
+{
+    "shop":[
+        {
+            "name": "rorant",
+            "displayName": "로랑",
+            "price": {
+                "type": "",
+                "amount": 0
+            }
+        },
+        {
+            "name": "lucas",
+            "displayName": "루카스",
+            "price": {
+                "type": "",
+                "amount": 0
+            }
+        },
+        {
+            "name": "alexander",
+            "displayName": "알렉산더",
+            "price": {
+                "type": "",
+                "amount": 0
+            }
+        },
+        {
+            "name": "rorencho",
+            "displayName": "로렌초",
+            "price": {
+                "type": "",
+                "amount": 0
+            }
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "characterData": [
+        {
+            "name": "mariant",
+            "hair":[],
+            "cloth":[]
+        },
+        {
+            "name": "sevonichi",
+            "hair":[],
+            "cloth":[]
+        }
+    ],
+    "nowCharacter": "mariant",
+    "progress": 0.0,
+    "power": 0.0,
+    "gold": 0.0,
+    "inventory": [
+    ]
+}

@@ -1,0 +1,230 @@
+{
+    "characterData": [
+        {
+            "name": "mariant",
+            "hair": {
+                "name": "mariant_hair3",
+                "lore": "",
+                "displayName": "헤어3",
+                "spritePath": "sprites/mariant/mariant_hair3"
+            },
+            "cloth": {
+                "name": "mariant_clothes4",
+                "lore": "",
+                "displayName": "옷4",
+                "spritePath": "sprites/mariant/mariant_clothes4"
+            },
+            "exp": 0
+        },
+        {
+            "name": "sevonichi",
+            "hair": {
+                "name": "sevonichi_hair1",
+                "lore": "",
+                "displayName": "헤어1",
+                "spritePath": "sprites/sevonichi/sevonichi_hair1"
+            },
+            "cloth": {
+                "name": "sevonichi_clothes1",
+                "lore": "",
+                "displayName": "옷1",
+                "spritePath": "sprites/sevonichi/sevonichi_clothes1"
+            },
+            "exp": 87
+        },
+        {
+            "name": "rorant",
+            "hair": {
+                "name": "",
+                "lore": "",
+                "displayName": "",
+                "spritePath": ""
+            },
+            "cloth": {
+                "name": "",
+                "lore": "",
+                "displayName": "",
+                "spritePath": ""
+            },
+            "exp": 0
+        },
+        {
+            "name": "rorencho",
+            "hair": {
+                "name": "",
+                "lore": "",
+                "displayName": "",
+                "spritePath": ""
+            },
+            "cloth": {
+                "name": "",
+                "lore": "",
+                "displayName": "",
+                "spritePath": ""
+            },
+            "exp": 0
+        },
+        {
+            "name": "lucas",
+            "hair": {
+                "name": "",
+                "lore": "",
+                "displayName": "",
+                "spritePath": ""
+            },
+            "cloth": {
+                "name": "",
+                "lore": "",
+                "displayName": "",
+                "spritePath": ""
+            },
+            "exp": 0
+        }
+    ],
+    "nowCharacter": "sevonichi",
+    "progress": 0.0,
+    "power": 0.0,
+    "gold": 0.0,
+    "inventory": [
+        {
+            "name": "sevonichi_hair1",
+            "lore": "",
+            "displayName": "헤어1",
+            "spritePath": "sprites/sevonichi/sevonichi_hair1"
+        },
+        {
+            "name": "sevonichi_hair2",
+            "lore": "",
+            "displayName": "헤어2",
+            "spritePath": "sprites/sevonichi/sevonichi_hair2"
+        },
+        {
+            "name": "sevonichi_hair3",
+            "lore": "",
+            "displayName": "헤어3",
+            "spritePath": "sprites/sevonichi/sevonichi_hair3"
+        },
+        {
+            "name": "sevonichi_hair4",
+            "lore": "",
+            "displayName": "헤어4",
+            "spritePath": "sprites/sevonichi/sevonichi_hair4"
+        },
+        {
+            "name": "sevonichi_clothes1",
+            "lore": "",
+            "displayName": "옷1",
+            "spritePath": "sprites/sevonichi/sevonichi_clothes1"
+        },
+        {
+            "name": "sevonichi_clothes2",
+            "lore": "",
+            "displayName": "옷2",
+            "spritePath": "sprites/sevonichi/sevonichi_clothes2"
+        },
+        {
+            "name": "sevonichi_clothes3",
+            "lore": "",
+            "displayName": "옷3",
+            "spritePath": "sprites/sevonichi/sevonichi_clothes3"
+        },
+        {
+            "name": "sevonichi_clothes4",
+            "lore": "",
+            "displayName": "옷4",
+            "spritePath": "sprites/sevonichi/sevonichi_clothes4"
+        },
+        {
+            "name": "mariant_hair1",
+            "lore": "",
+            "displayName": "헤어1",
+            "spritePath": "sprites/mariant/mariant_hair1"
+        },
+        {
+            "name": "mariant_hair2",
+            "lore": "",
+            "displayName": "헤어2",
+            "spritePath": "sprites/mariant/mariant_hair2"
+        },
+        {
+            "name": "mariant_hair3",
+            "lore": "",
+            "displayName": "헤어3",
+            "spritePath": "sprites/mariant/mariant_hair3"
+        },
+        {
+            "name": "mariant_hair4",
+            "lore": "",
+            "displayName": "헤어4",
+            "spritePath": "sprites/mariant/mariant_hair4"
+        },
+        {
+            "name": "mariant_clothes1",
+            "lore": "",
+            "displayName": "옷1",
+            "spritePath": "sprites/mariant/mariant_clothes1"
+        },
+        {
+            "name": "mariant_clothes2",
+            "lore": "",
+            "displayName": "옷2",
+            "spritePath": "sprites/mariant/mariant_clothes2"
+        },
+        {
+            "name": "mariant_clothes3",
+            "lore": "",
+            "displayName": "옷3",
+            "spritePath": "sprites/mariant/mariant_clothes3"
+        },
+        {
+            "name": "mariant_clothes4",
+            "lore": "",
+            "displayName": "옷4",
+            "spritePath": "sprites/mariant/mariant_clothes4"
+        }
+    ],
+    "saveData": [
+        {
+            "storyname": "test",
+            "part": 0,
+            "partindex": 1,
+            "scriptindex": 0
+        },
+        {
+            "storyname": "test",
+            "part": 0,
+            "partindex": 0,
+            "scriptindex": 0
+        },
+        {
+            "storyname": "test",
+            "part": 2,
+            "partindex": 2,
+            "scriptindex": 1
+        },
+        {
+            "storyname": "test",
+            "part": 2,
+            "partindex": 1,
+            "scriptindex": 0
+        },
+        {
+            "storyname": "test",
+            "part": 2,
+            "partindex": 2,
+            "scriptindex": 2
+        },
+        {
+            "storyname": "test",
+            "part": 1,
+            "partindex": 0,
+            "scriptindex": 1
+        }
+    ],
+    "loadData": {
+        "storyname": "test",
+        "part": 2,
+        "partindex": 2,
+        "scriptindex": 2
+    }
+}

@@ -1,0 +1,202 @@
+{
+    "name":"test",
+    "part": 0,
+    "partData":[
+        {
+            "scriptData": [
+                {
+                    "type":"chat",
+                    "speaker":"마리안트",
+                    "text":"오, 세보니치 밥은 먹었니?",
+                    "day":1,
+                    "time":"아침",
+                    "command":[
+                        {
+                            "text": "",
+                            "exp": true,
+                            "exptype":"add",
+                            "expname":"sevonichi",
+                            "expamount": 1,
+
+                            "goscript": true,
+                            "gopartindex": 0,
+                            "goscriptindex": 1,
+
+                            "setpart": true,
+                            "parttype": "add",
+                            "partamount": 1,
+
+                            "goMain": false
+                        }
+                    ],
+                    "characterName":[
+                        "mariant",
+                        "sevonichi"
+                    ],
+                    "backgroundSpritePath":"sprites/story/stroy_after_rute"
+                },
+                {
+                    "type":"select",
+                    "speaker":"마리안트",
+                    "text":"순대국 먹으러 같이 부산 가지 않을래?",
+                    "day":1,
+                    "time":"아침",
+                    "command":[
+                        {
+                            "text": "좋아.",
+                            "exp": true,
+                            "exptype":"add",
+                            "expname":"sevonichi",
+                            "expamount": 1,
+
+                            "goscript": true,
+                            "gopartindex": 1,
+                            "goscriptindex": 0,
+
+                            "setpart": true,
+                            "parttype": "add",
+                            "partamount": 1,
+                            
+                            "goMain": false
+                        }
+                    ],
+                    "characterName":[
+                        "mariant",
+                        "sevonichi"
+                    ],
+                    "backgroundSpritePath":"sprites/story/stroy_after_rute"
+                }
+            ]
+        },
+        {
+            "scriptData": [
+                {
+                    "type":"chat",
+                    "speaker":"마리안트",
+                    "text":"좋아 가서 스근하게 깍두기랑 쓱 비벼먹자고.",
+                    "day":1,
+                    "time":"아침",
+                    "command":[
+                        {
+                            "text": "",
+                            "exp": false,
+                            "exptype":"",
+                            "expname":"",
+                            "expamount": 0,
+
+                            "goscript": true,
+                            "gopartindex": 2,
+                            "goscriptindex": 0,
+
+                            "setpart": false,
+                            "parttype": "",
+                            "partamount": 0,
+
+                            "goMain": false
+                        }
+                    ],
+                    "characterName":[
+                        "mariant",
+                        "sevonichi"
+                    ],
+                    "backgroundSpritePath":"sprites/story/stroy_after_rute"
+                }
+            ]
+        },
+        {
+            "scriptData": [
+                {
+                    "type":"chatsolo",
+                    "speaker":"마리안트",
+                    "text":"미안. 조금 저급했지?",
+                    "day":1,
+                    "time":"아침",
+                    "command":[
+                        {
+                            "text": "",
+                            "exp": false,
+                            "exptype":"",
+                            "expname":"",
+                            "expamount": 0,
+
+                            "goscript": true,
+                            "gopartindex": 2,
+                            "goscriptindex": 1,
+
+                            "setpart": false,
+                            "parttype": "",
+                            "partamount": 0,
+
+                            "goMain": false
+                        }
+                    ],
+                    "characterName":[
+                        "mariant",
+                        "sevonichi"
+                    ],
+                    "backgroundSpritePath":"sprites/story/stroy_after_rute"
+                },
+                {
+                    "type":"solo",
+                    "speaker":"마리안트",
+                    "text":".",
+                    "day":1,
+                    "time":"아침",
+                    "command":[
+                        {
+                            "text": "",
+                            "exp": false,
+                            "exptype":"",
+                            "expname":"",
+                            "expamount": 0,
+
+                            "goscript": true,
+                            "gopartindex": 2,
+                            "goscriptindex": 2,
+
+                            "setpart": false,
+                            "parttype": "",
+                            "partamount": 0,
+
+                            "goMain": false
+                        }
+                    ],
+                    "characterName":[
+                        "mariant",
+                        "sevonichi"
+                    ],
+                    "backgroundSpritePath":"sprites/story/stroy_after_rute"
+                },
+                {
+                    "type":"event",
+                    "speaker":"",
+                    "text":"이벤트1. part3",
+                    "day":1,
+                    "time":"아침",
+                    "command":[
+                        {
+                            "text": "",
+                            "exp": false,
+                            "exptype":"",
+                            "expname":"",
+                            "expamount": 0,
+
+                            "goscript": false,
+                            "gopartindex": 2,
+                            "goscriptindex": 2,
+
+                            "setpart": false,
+                            "parttype": "",
+                            "partamount": 0,
+
+                            "goMain": true
+                        }
+                    ],
+                    "characterName":[
+                    ],
+                    "backgroundSpritePath":"sprites/story/stroy_after_rute"
+                }
+            ]
+        }
+    ]
+}

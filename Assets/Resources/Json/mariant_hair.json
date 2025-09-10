@@ -1,0 +1,45 @@
+{
+    "name": "mariant_hair",
+    "itemData": [
+        {
+            "name": "mariant_hair1",
+            "displayName": "헤어1",
+            "price":{
+                "type": "power",
+                "amount": 0
+            },
+            "spritePath": "sprites/mariant/mariant_hair1",
+            "buyed": false
+        },
+        {
+            "name": "mariant_hair2",
+            "displayName": "헤어2",
+            "price":{
+                "type": "power",
+                "amount": 0
+            },
+            "spritePath": "sprites/mariant/mariant_hair2",
+            "buyed": false
+        },
+        {
+            "name": "mariant_hair3",
+            "displayName": "헤어3",
+            "price":{
+                "type": "power",
+                "amount": 0
+            },
+            "spritePath": "sprites/mariant/mariant_hair3",
+            "buyed": false
+        },
+        {
+            "name": "mariant_hair4",
+            "displayName": "헤어4",
+            "price":{
+                "type": "power",
+                "amount": 0
+            },
+            "spritePath": "sprites/mariant/mariant_hair4",
+            "buyed": false
+        }
+    ]
+}
